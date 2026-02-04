@@ -1,2 +1,2 @@
 # aulas-de-java
-aulas de pooo unifor
+aulas de poo unifor
